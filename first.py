@@ -31,5 +31,5 @@ plt.ylabel('stipnd', color='green')
 from sklearn import metrics
 print(np.sqrt(metrics.mean_absolute_error(y_test, y_predict)))
 
-
+pint('haibb')
  
